@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1,ESPN sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/188
+#EXTINF:-1,ESPN 2 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/189
+#EXTINF:-1,ESPN 3 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/190
+#EXTINF:-1,WIN SPORTS+
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_1.m3u8?jc
+#EXTINF:-1,FOX PREMIUM ACTION
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+#EXTINF:-1,FOX SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/206
+#EXTINF:-1,FOX SPORTS 2
+http://ultraplay.org:80/DANIEL13W/2019XTR/208
+#EXTINF:-1,FOX SPORTS 3
+http://ultraplay.org:80/DANIEL13W/2019XTR/210
+#EXTINF:-1,FOX SPORTS cl
+http://ultraplay.org:80/DANIEL13W/2019XTR/66495
+#EXTINF:-1,DIRECTV
+http://ultraplay.org:80/DANIEL13W/2019XTR/66500
+#EXTINF:-1,LA LIGA
+http://ultraplay.org:80/DANIEL13W/2019XTR/95863
+#EXTINF:-1,CLARO SPORTS
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
+#EXTINF:-1,TUDN
+http://ultraplay.org:80/DANIEL13W/2019XTR/95821
+#EXTINF:-1,SKY SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/95865
+#EXTINF:-1,TELECINCO
+http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+#EXTINF:-1,AFIZZIONADOS
+http://ultraplay.org:80/DANIEL13W/2019XTR/95839
+#EXTINF:-1,MovistarF1
+http://ytv.plus:25461/lupita/1234/1640
+#EXTINF:-1,TYC SPORTS
+http://ytv.plus:25461/lupita/1234/2938
+#EXTINF:-1,UFC FIGHT PASS
+http://ytv.plus:25461/lupita/1234/1915
